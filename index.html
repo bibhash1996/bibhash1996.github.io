@@ -98,8 +98,14 @@
 	 <div class="container">
 	  <div class="row">
 	   <div class="col-lg-12 text-center">
-	      
-		  <div class="wow rollIn">
+	           <script>
+		   $(document).ready(function() {
+             setTimeout(function() {
+			 $("#initial").addClass("rollIn"); 
+			 },3500);
+             });
+		  </script>
+		  <div class="wow" id="initial">
 		  <img src="bib1.jpg" class="img-responsive img-circle" style="border:10px solid rgba(2, 2, 2, 0.47);">
 		  </div>
 		  <script>
