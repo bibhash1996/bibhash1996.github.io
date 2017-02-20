@@ -362,7 +362,7 @@ hr.thick{
 
 .contact{
 	text-align:left;
-	margin-top:80px;
+	margin-top:40px;
 }
 
 @media only screen and (max-width: 767px)
@@ -498,4 +498,13 @@ color: #ccc;
 	bottom:0;
 	background-color:#454267;
 	z-index:999999;
+}
+.myimg{
+	width:150px;
+	height:150px;
+	margin:0 auto;
+	float:none;
+	border:1px solid black;
+	margin-top:60px;
+	
 }
