@@ -1,7 +1,7 @@
 # bibhash1996.github.io
 
 My PORTFOLIO website hosted on github pages and recently shifted to a new domain. <br>
-if(Link = https://bibhash1996.github.io && Link == http://www.bibhashsingh.tk )<br>
+if(Link = https://bibhash1996.github.io || Link == http://www.bibhashsingh.tk )<br>
   {<br>
     cout<<"You know me well"; <br>
     break; <br>
